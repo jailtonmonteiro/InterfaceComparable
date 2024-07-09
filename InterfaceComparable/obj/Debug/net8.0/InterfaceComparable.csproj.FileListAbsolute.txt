@@ -1,0 +1,14 @@
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.exe
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.deps.json
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.runtimeconfig.json
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.dll
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\bin\Debug\net8.0\InterfaceComparable.pdb
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.AssemblyInfoInputs.cache
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.AssemblyInfo.cs
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.csproj.CoreCompileInputs.cache
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.dll
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\refint\InterfaceComparable.dll
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.pdb
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\InterfaceComparable.genruntimeconfig.cache
+E:\Cursos\CSharp\InterfaceComparable\InterfaceComparable\obj\Debug\net8.0\ref\InterfaceComparable.dll
